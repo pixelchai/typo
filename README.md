@@ -35,4 +35,4 @@ thbve quick brown fox jumps overfdr a lazy dog
 | n    | number of typo iterations (def:1) |
 
 NB: typos can only be performed on alphabetic characters. A string with no alphabetic characters will be returned unchanged.
-NB: if must=0, typos actually are generated approx 68% of the time
+NB: if must=0, typos actually are generated approx 67.7% of the time
